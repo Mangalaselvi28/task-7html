@@ -1,0 +1,40 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+.container img{
+	margin: 3px;
+	border-style: solid;
+	color: #6f716f;
+	text-align:center;
+	border-radius: 60%
+}
+.container
+{
+	color: #ffffff;
+	background-image: url(../images/bg-img.jpg);
+	background-repeat: no-repeat;	
+	background-attachment: scroll;
+	background-position: center;
+	background-size: cover;
+	text-align:center;
+	margin-top: 50px;
+	margin-bottom: 100px;
+	padding: 100px 0px;
+}
+.container h1{
+	font-family: raleway;
+	text-align: center;
+}
+.container h5{
+    font-family: sans serif;
+	text-align: center;
+}
+
+
+.container p{
+	padding-top: 10px;
+	font-family: montserrat;
+	text-align: center;
+}
